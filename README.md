@@ -30,7 +30,7 @@ A simple web application that helps Small and Medium Businesses (SMBs) create pr
 
 ## Deployment
 
-This project is deployed using GitHub Pages and can be accessed at [your-github-username.github.io/repo-name]([https://your-github-username.github.io/repo-name](https://github.com/pronajit/MsgGen.git))
+This project is deployed using GitHub Pages and can be accessed at [your-github-username.github.io/repo-name](https://github.com/pronajit/MsgGen.git)
 
 ## Local Development
 
